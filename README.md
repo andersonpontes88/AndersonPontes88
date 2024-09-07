@@ -1,8 +1,9 @@
 ### :collision: Hi there :hand:
 
-<b>Eu sou Anderson Pontes, tenho 35 anos, e estou estudando no DEV.Club, Programação Full Stack.
-Aprendendo a cada dia mais sobre esse novo mundo (pra mim) da programação e estou muito animado e feliz com tudo que estou vendo.<br>
-Treinando todos os dias, fazendo projetos com:</b>
+<h3>Eu sou Anderson Pontes, tenho 35 anos, em transição de carreira! Estou estudando programação "Full Stack Pro no DevClub". 
+Aprendendo a cada dia mais, praticando e exercitando as técnicas da programação.<br>
+Já desenvolvi projetos durante o curso, utilizando as tecnologias (HTML, CSS, JavaScript, ReactJS, NodeJS, Docker, Postgres, MongoDB, Prisma ):
+</h3>
 <br>
 <br>
 :hourglass_flowing_sand: ...
@@ -13,13 +14,17 @@ Treinando todos os dias, fazendo projetos com:</b>
    - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-javascrit" />
    - <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="logo-nodeJS" />
    - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react" />
+   - <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="logo-docker" />
    - <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="logo-mongoDB" />
    - <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="logo-postgres" />
+   - <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="logo-prisma" />
 
    <br>
    <br>
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonpontes88)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonpontes88)](https://github.com/anuraghazra/github-readme-stats) <br/>
+   ![highcontrast](https://awesome-github-stats.azurewebsites.net/user-stats/andersonpontes88?theme=highcontrast) <br/>
+   
    <br>
    <br>
 
