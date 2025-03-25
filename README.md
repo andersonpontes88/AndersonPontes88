@@ -1,8 +1,8 @@
 ### :collision: Hi there :hand:
 
-<h3>Eu sou Anderson Pontes, tenho 35 anos, em transição de carreira! Estou estudando programação "Full Stack Pro no DevClub". 
+<h3>Eu sou Anderson Pontes, em transição de carreira! Estou estudando programação "Full Stack Pro no DevClub". 
 Aprendendo a cada dia mais, praticando e exercitando as técnicas da programação.<br>
-Já desenvolvi projetos durante o curso, utilizando as tecnologias (HTML, CSS, JavaScript, ReactJS, NodeJS, Docker, Postgres, MongoDB, Prisma ):
+Já desenvolvi projetos durante o curso, utilizando as tecnologias (HTML, CSS, JavaScript, ReactJS, TypeScript, Tailwindcss, NodeJS, Docker, Postgres, MongoDB, Prisma ):
 </h3>
 <br>
 <br>
